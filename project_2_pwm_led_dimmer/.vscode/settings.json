@@ -1,0 +1,7 @@
+{
+    "clangd.path": "/home/collin/.platformio/packages/tool-clangd-esp/bin/clangd",
+    "clangd.arguments": [
+        "--compile-commands-dir=/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer/.cache/clangd",
+        "--query-driver=/home/collin/.platformio/packages/toolchain-*/bin/*,/home/collin/.platformio/packages/tool-*/bin/*"
+    ]
+}

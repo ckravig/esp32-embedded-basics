@@ -1,6 +1,7 @@
 # Project 2: ESP32 PWM LED Dimmer
 
 ## Overview
+[![Watch the video](https://img.youtube.com/vi/_QxMZr2dCBA/hqdefault.jpg)](https://youtu.be/_QxMZr2dCBA)
 
 This project is an embedded systems exercise using an **ESP32 development board**, an **LED**, and a **pushbutton**. The firmware controls LED brightness using **Pulse Width Modulation (PWM)** and allows the user to cycle through predefined brightness levels with each button press.
 
@@ -124,6 +125,9 @@ The button uses the internal pull-up resistor, meaning:
 ----------
 
 ## How to Run
+
+### Web (Wokwi)
+Try my project online using [Wokwi](https://wokwi.com/projects/477907641201159169)
 
 ### PlatformIO
 

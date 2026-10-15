@@ -1,6 +1,6 @@
 [
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/ColorFormat.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/ColorFormat.c.o",
     "arguments": [
@@ -405,7 +405,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/Esp.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/Esp.cpp.o",
     "arguments": [
@@ -818,7 +818,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/FirmwareMSC.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/FirmwareMSC.cpp.o",
     "arguments": [
@@ -1231,7 +1231,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/FunctionalInterrupt.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/FunctionalInterrupt.cpp.o",
     "arguments": [
@@ -1644,7 +1644,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/HEXBuilder.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/HEXBuilder.cpp.o",
     "arguments": [
@@ -2057,7 +2057,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/HWCDC.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/HWCDC.cpp.o",
     "arguments": [
@@ -2470,7 +2470,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareSerial.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/HardwareSerial.cpp.o",
     "arguments": [
@@ -2883,7 +2883,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/HashBuilder.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/HashBuilder.cpp.o",
     "arguments": [
@@ -3296,7 +3296,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/IPAddress.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/IPAddress.cpp.o",
     "arguments": [
@@ -3709,7 +3709,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/MD5Builder.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/MD5Builder.cpp.o",
     "arguments": [
@@ -4122,7 +4122,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/MacAddress.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/MacAddress.cpp.o",
     "arguments": [
@@ -4535,7 +4535,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/Print.cpp.o",
     "arguments": [
@@ -4948,7 +4948,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/Stream.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/Stream.cpp.o",
     "arguments": [
@@ -5361,7 +5361,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/StreamString.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/StreamString.cpp.o",
     "arguments": [
@@ -5774,7 +5774,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/StringUtils.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/StringUtils.cpp.o",
     "arguments": [
@@ -6187,7 +6187,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/Tone.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/Tone.cpp.o",
     "arguments": [
@@ -6600,7 +6600,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/USB.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/USB.cpp.o",
     "arguments": [
@@ -7013,7 +7013,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/USBCDC.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/USBCDC.cpp.o",
     "arguments": [
@@ -7426,7 +7426,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/USBHost.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/USBHost.cpp.o",
     "arguments": [
@@ -7839,7 +7839,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/USBMSC.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/USBMSC.cpp.o",
     "arguments": [
@@ -8252,7 +8252,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/WMath.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/WMath.cpp.o",
     "arguments": [
@@ -8665,7 +8665,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/WString.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/WString.cpp.o",
     "arguments": [
@@ -9078,7 +9078,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/base64.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/base64.cpp.o",
     "arguments": [
@@ -9491,7 +9491,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/cbuf.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/cbuf.cpp.o",
     "arguments": [
@@ -9904,7 +9904,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/chip-debug-report.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/chip-debug-report.cpp.o",
     "arguments": [
@@ -10317,7 +10317,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-adc.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-adc.c.o",
     "arguments": [
@@ -10722,7 +10722,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-bt.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-bt.c.o",
     "arguments": [
@@ -11127,7 +11127,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-cpu.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-cpu.c.o",
     "arguments": [
@@ -11532,7 +11532,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-dac.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-dac.c.o",
     "arguments": [
@@ -11937,7 +11937,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-gpio.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-gpio.c.o",
     "arguments": [
@@ -12342,7 +12342,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-hosted.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-hosted.c.o",
     "arguments": [
@@ -12747,7 +12747,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-i2c-ng.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c-ng.c.o",
     "arguments": [
@@ -13152,7 +13152,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-i2c-slave.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c-slave.c.o",
     "arguments": [
@@ -13557,7 +13557,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-i2c.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-i2c.c.o",
     "arguments": [
@@ -13962,7 +13962,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-ldo.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-ldo.c.o",
     "arguments": [
@@ -14367,7 +14367,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-ledc.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-ledc.c.o",
     "arguments": [
@@ -14772,7 +14772,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-log-wrapper.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-log-wrapper.c.o",
     "arguments": [
@@ -15177,7 +15177,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-matrix.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-matrix.c.o",
     "arguments": [
@@ -15582,7 +15582,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-misc.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-misc.c.o",
     "arguments": [
@@ -15987,7 +15987,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-periman.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-periman.c.o",
     "arguments": [
@@ -16392,7 +16392,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-psram.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-psram.c.o",
     "arguments": [
@@ -16797,7 +16797,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-rgb-led.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-rgb-led.c.o",
     "arguments": [
@@ -17202,7 +17202,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-rmt.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-rmt.c.o",
     "arguments": [
@@ -17607,7 +17607,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-sigmadelta.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-sigmadelta.c.o",
     "arguments": [
@@ -18012,7 +18012,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-spi.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-spi.c.o",
     "arguments": [
@@ -18417,7 +18417,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-time.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-time.c.o",
     "arguments": [
@@ -18822,7 +18822,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-timer.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-timer.c.o",
     "arguments": [
@@ -19227,7 +19227,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-tinyusb.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-tinyusb.c.o",
     "arguments": [
@@ -19632,7 +19632,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-touch-ng.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-touch-ng.c.o",
     "arguments": [
@@ -20037,7 +20037,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-touch.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-touch.c.o",
     "arguments": [
@@ -20442,7 +20442,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-uart.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/esp32-hal-uart.c.o",
     "arguments": [
@@ -20847,7 +20847,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/firmware_msc_fat.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/firmware_msc_fat.c.o",
     "arguments": [
@@ -21252,7 +21252,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/freertos_stats.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/freertos_stats.cpp.o",
     "arguments": [
@@ -21665,7 +21665,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/idf_openthread_mpool_wrapper.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/idf_openthread_mpool_wrapper.c.o",
     "arguments": [
@@ -22070,7 +22070,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/libb64/cdecode.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/libb64/cdecode.c.o",
     "arguments": [
@@ -22475,7 +22475,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/libb64/cencode.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/libb64/cencode.c.o",
     "arguments": [
@@ -22880,7 +22880,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/main.cpp",
     "output": ".pio/build/esp32dev/FrameworkArduino/main.cpp.o",
     "arguments": [
@@ -23293,7 +23293,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/stdlib_noniso.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/stdlib_noniso.c.o",
     "arguments": [
@@ -23698,7 +23698,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/wiring_pulse.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/wiring_pulse.c.o",
     "arguments": [
@@ -24103,7 +24103,7 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
     "file": "/home/collin/.platformio/packages/framework-arduinoespressif32/cores/esp32/wiring_shift.c",
     "output": ".pio/build/esp32dev/FrameworkArduino/wiring_shift.c.o",
     "arguments": [
@@ -24508,13 +24508,13 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
-    "file": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer/.pio/libdeps/esp32dev/Bounce2/src/Bounce2.cpp",
-    "output": ".pio/build/esp32dev/lib93f/Bounce2/Bounce2.cpp.o",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
+    "file": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer/.pio/libdeps/esp32dev/Bounce2/src/Bounce2.cpp",
+    "output": ".pio/build/esp32dev/lib92a/Bounce2/Bounce2.cpp.o",
     "arguments": [
       "/home/collin/.platformio/packages/toolchain-xtensa-esp-elf/bin/xtensa-esp32-elf-g++",
       "-o",
-      ".pio/build/esp32dev/lib93f/Bounce2/Bounce2.cpp.o",
+      ".pio/build/esp32dev/lib92a/Bounce2/Bounce2.cpp.o",
       "-isystem",
       "/home/collin/.platformio/packages/toolchain-xtensa-esp-elf/xtensa-esp-elf/include/c++/14.2.0",
       "-isystem",
@@ -24602,7 +24602,7 @@
       "-DARDUINO_VARIANT=\"esp32\"",
       "-DARDUINO_BOARD=\"Espressif ESP32 Dev Module\"",
       "-DARDUINO_PARTITION_default",
-      "-I/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer/.pio/libdeps/esp32dev/Bounce2/src",
+      "-I/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer/.pio/libdeps/esp32dev/Bounce2/src",
       "-I/home/collin/.platformio/packages/framework-arduinoespressif32-libs/esp32/include/newlib/platform_include",
       "-I/home/collin/.platformio/packages/framework-arduinoespressif32-libs/esp32/include/freertos/config/include",
       "-I/home/collin/.platformio/packages/framework-arduinoespressif32-libs/esp32/include/freertos/config/include/freertos",
@@ -24921,8 +24921,8 @@
     ]
   },
   {
-    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer",
-    "file": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer/src/main.cpp",
+    "directory": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer",
+    "file": "/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer/src/main.cpp",
     "output": ".pio/build/esp32dev/src/main.cpp.o",
     "arguments": [
       "/home/collin/.platformio/packages/toolchain-xtensa-esp-elf/bin/xtensa-esp32-elf-g++",
@@ -25015,10 +25015,10 @@
       "-DARDUINO_VARIANT=\"esp32\"",
       "-DARDUINO_BOARD=\"Espressif ESP32 Dev Module\"",
       "-DARDUINO_PARTITION_default",
-      "-I/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer/include",
-      "-I/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer/src",
-      "-I/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer/.pio/libdeps/esp32dev/elapsedMillis",
-      "-I/mnt/redsea/collin/Coding/git/esp32-embedded-basics/Project 2 PWM LED dimmer/.pio/libdeps/esp32dev/Bounce2/src",
+      "-I/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer/include",
+      "-I/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer/src",
+      "-I/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer/.pio/libdeps/esp32dev/elapsedMillis",
+      "-I/mnt/redsea/collin/Coding/git/esp32-embedded-basics/project_2_pwm_led_dimmer/.pio/libdeps/esp32dev/Bounce2/src",
       "-I/home/collin/.platformio/packages/framework-arduinoespressif32-libs/esp32/include/newlib/platform_include",
       "-I/home/collin/.platformio/packages/framework-arduinoespressif32-libs/esp32/include/freertos/config/include",
       "-I/home/collin/.platformio/packages/framework-arduinoespressif32-libs/esp32/include/freertos/config/include/freertos",
