@@ -128,7 +128,7 @@ This repo follows a structured roadmap designed to build embedded skills in a po
 -   Develop strong embedded C/C++ fundamentals
 -   Build reusable firmware patterns (drivers, state machines, timing)
 -   Learn debugging workflows (serial logs, logic analyzer, etc.)
--   Produce documented portfolio projects suitable for embedded job applications
+-   Produce documented portfolio projects
 
 ----------
 
